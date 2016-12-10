@@ -9,7 +9,8 @@ Used in a Udacity course in the Beginning Android Nanodegree.
 More info on the USGS Earthquake API available at:
 http://earthquake.usgs.gov/fdsnws/event/1/
 <Br />
-Skills Used:
+##Skills Used:<Br />
+
 1- JSON<Br />
 
 2- Connecting to API Service<Br />
