@@ -21,7 +21,7 @@ http://earthquake.usgs.gov/fdsnws/event/1/
 5- Preferences<Br />
 
 ##Screenshots:<br />
-![Alt text](https://i.imgsafe.org/bb3da651f3.png "")<br />
+![Alt text](https://i.imgsafe.org/bb3d854ee8.png "")<br />
 ![Alt text](https://i.imgsafe.org/bb3da651f3.png "")<br />
 
 
