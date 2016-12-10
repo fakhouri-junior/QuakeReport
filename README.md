@@ -18,6 +18,13 @@ http://earthquake.usgs.gov/fdsnws/event/1/
 3- Backround Tasks using Loaders<Br />
 
 4- UI Developemnt using specifications and mocks<Br />
+5- Preferences<Br />
+
+##Screenshots:<br />
+![Alt text](https://i.imgsafe.org/bb3da651f3.png "")<br />
+![Alt text](https://i.imgsafe.org/bb3da651f3.png "")<br />
+
+
 
 
 
